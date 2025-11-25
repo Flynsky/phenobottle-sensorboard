@@ -1,4 +1,5 @@
 # Phenobottle Sensorboard
+![Schematic](./Hardware/Phenobottle%20Sensorboard%20PCB/documentation/Phenobottle%20Sensorboard.pdf)
 ## Getting Startet
 - Connect via USB or USART0 to access a internal console.
   A good, easy to use Tool for this is the Arduino IDE. 
@@ -7,11 +8,5 @@
 ## Picture
 ![Picture](./pictures%20for%20wiki/spacelabs_platinge.jpg)
 
-
-## Software Setup
-Software is managed with plattformio.
-
-## Hardware Interfaces
+## Hardware
 ![Picture](./pictures%20for%20wiki/PhenoBoard-Concept.png)
-
-![Schematic](./Hardware/Phenobottle%20Sensorboard%20PCB/documentation/Phenobottle%20Sensorboard.pdf)

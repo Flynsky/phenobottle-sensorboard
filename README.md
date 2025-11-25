@@ -14,3 +14,4 @@ Software is managed with plattformio.
 ## Hardware Interfaces
 ![Picture](./pictures%20for%20wiki/PhenoBoard-Concept.png)
 
+![Schematic](./Hardware/Phenobottle%20Sensorboard%20PCB/documentation/Phenobottle%20Sensorboard.pdf)

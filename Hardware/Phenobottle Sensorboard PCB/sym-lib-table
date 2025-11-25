@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "phenobottle_sensorboard")(type "KiCad")(uri "${KIPRJMOD}/lib/phenobottle_sensorboard.kicad_sym")(options "")(descr ""))
+)

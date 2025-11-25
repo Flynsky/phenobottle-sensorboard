@@ -1,0 +1,77 @@
+{
+  "jobs": [
+    {
+      "description": "",
+      "id": "f13d8be3-d86d-4577-87a0-13363d924211",
+      "settings": {
+        "black_and_white": false,
+        "color_theme": "KiCad Default",
+        "description": "",
+        "drawing_sheet": "",
+        "format": "pdf",
+        "hpgl_page_size": "default",
+        "hpgl_pen_size": 1.016,
+        "hpgl_plot_origin": "A3",
+        "min_pen_width": 847,
+        "output_filename": "Schematic.pdf",
+        "page_size": "auto",
+        "pdf_hierarchical_links": true,
+        "pdf_metadata": true,
+        "pdf_property_popups": true,
+        "plot_all": true,
+        "plot_drawing_sheet": true,
+        "use_background_color": true
+      },
+      "type": "sch_export_plot_pdf"
+    },
+    {
+      "description": "",
+      "id": "0965754e-5133-4971-8f92-58f42ba19352",
+      "settings": {
+        "board_only": false,
+        "board_outlines_chaining_epsilon": 0.01,
+        "cut_vias_in_body": false,
+        "description": "",
+        "export_board_body": true,
+        "export_components": true,
+        "export_inner_copper": false,
+        "export_pads": false,
+        "export_silkscreen": true,
+        "export_soldermask": true,
+        "export_tracks": false,
+        "export_zones": false,
+        "fill_all_vias": false,
+        "format": "step",
+        "fuse_shapes": false,
+        "include_dnp": false,
+        "include_unspecified": true,
+        "occt_format": 0,
+        "optimize_step": true,
+        "output_filename": "3D_Model.step",
+        "overwrite": true,
+        "subst_models": true,
+        "use_drill_origin": false,
+        "use_grid_origin": false,
+        "user_origin.x": 40.75,
+        "user_origin.y": 42.0,
+        "vrml_model_dir": "",
+        "vrml_relative_paths": false
+      },
+      "type": "pcb_export_3d"
+    }
+  ],
+  "meta": {
+    "version": 1
+  },
+  "outputs": [
+    {
+      "description": "documenation",
+      "id": "c66f46d4-7ed3-4290-90f2-9c7d9748f70e",
+      "only": [],
+      "settings": {
+        "output_path": "${KIPRJMOD}/documentation"
+      },
+      "type": "folder"
+    }
+  ]
+}

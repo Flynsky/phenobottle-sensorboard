@@ -1,0 +1,19 @@
+#pragma once
+
+typedef enum {
+  PIN_LED_STATUS = 9,
+  PIN_I2C1_SDA = 34, // ADC
+  PIN_I2C1_SCL = 33, // ADC
+  PIN_I2C2_SDA = 36, // IMU
+  PIN_I2C2_SCL = 37, // IMU
+  PIN_AMBIENT_LED = 8,
+  PIN_OD_LED = 4,
+  PIN_MOTOR0 = 5,
+  PIN_MOTOR1 = 7,
+  PIN_MOTOR2 = 21,
+  PIN_INTEGRATOR_COMP = 38,
+  PIN_INTEGRATOR_CHARGE_CAP = 1,
+  PIN_INTEGRATOR_ADD_CAP = 2,
+  PIN_OPT_INT_1 = 46, // left to shortest board edge
+  PIN_OPT_INT_2 = 45,
+} PIN_MAPPING;

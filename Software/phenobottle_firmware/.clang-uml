@@ -1,0 +1,12 @@
+compilation_database_dir: build
+output_directory: diagrams
+diagrams:
+  class_diagram:
+    type: class
+    title: Praktikum_V3_Kassendiagram
+    glob:
+      - src/*.cpp
+      - src/*.h
+    exclude:
+      namespaces:
+        - std

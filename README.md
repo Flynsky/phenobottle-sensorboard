@@ -5,11 +5,12 @@
 - Send "?" to this console for help on the avaliable commands.
 
 ## Picture
-![](./pictures for wiki/spacelabs_platinge.jpg)
+![Picture](./pictures%20for%20wiki/spacelabs_platinge.jpg)
+
 
 ## Software Setup
 Software is managed with plattformio.
 
 ## Hardware Interfaces
-![](./pictures for wiki/PhenoBoard-Concept.png)
+![Picture](./pictures%20for%20wiki/PhenoBoard-Concept.png)
 
